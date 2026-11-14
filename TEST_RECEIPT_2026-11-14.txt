@@ -1,0 +1,22 @@
+test_deduplicates_email_case_insensitively (test_lead_intake.LeadIntakeTests.test_deduplicates_email_case_insensitively) ... ok
+test_duplicate_phone_is_detected (test_lead_intake.LeadIntakeTests.test_duplicate_phone_is_detected) ... ok
+test_invalid_contact_is_held_for_review (test_lead_intake.LeadIntakeTests.test_invalid_contact_is_held_for_review) ... ok
+test_no_consent_is_held (test_lead_intake.LeadIntakeTests.test_no_consent_is_held) ... ok
+test_approval_required_before_draft (test_lead_followup.LeadFollowupTests.test_approval_required_before_draft) ... ok
+test_booking_stops_followup (test_lead_followup.LeadFollowupTests.test_booking_stops_followup) ... ok
+test_closed_and_human_handoff_are_terminal (test_lead_followup.LeadFollowupTests.test_closed_and_human_handoff_are_terminal) ... ok
+test_consent_grant_still_requires_human_approval (test_lead_followup.LeadFollowupTests.test_consent_grant_still_requires_human_approval) ... ok
+test_duplicate_event_is_idempotent (test_lead_followup.LeadFollowupTests.test_duplicate_event_is_idempotent) ... ok
+test_event_id_is_required (test_lead_followup.LeadFollowupTests.test_event_id_is_required) ... ok
+test_inbound_reply_stops_followup (test_lead_followup.LeadFollowupTests.test_inbound_reply_stops_followup) ... ok
+test_no_consent_is_held (test_lead_followup.LeadFollowupTests.test_no_consent_is_held) ... ok
+test_opt_out_revokes_consent_and_stops (test_lead_followup.LeadFollowupTests.test_opt_out_revokes_consent_and_stops) ... ok
+test_send_approval_does_not_send_message (test_lead_followup.LeadFollowupTests.test_send_approval_does_not_send_message) ... ok
+test_terminal_state_cannot_be_reopened (test_lead_followup.LeadFollowupTests.test_terminal_state_cannot_be_reopened) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.001s
+
+OK
+
+Result: exit 0

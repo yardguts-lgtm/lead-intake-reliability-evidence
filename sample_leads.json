@@ -1,0 +1,82 @@
+[
+  {
+    "lead_id": "L-001",
+    "name": "Alex Morgan",
+    "email": "alex@example.com",
+    "phone": "+1 (555) 010-1001",
+    "company": "Northstar Supply",
+    "source": "website_form",
+    "consent_to_contact": true,
+    "received_at": "2026-10-29T14:02:00Z"
+  },
+  {
+    "lead_id": "L-002",
+    "name": "Alex M.",
+    "email": "ALEX@example.com",
+    "phone": "+1 555 010 1001",
+    "company": "Northstar Supply",
+    "source": "whatsapp",
+    "consent_to_contact": true,
+    "received_at": "2026-10-29T14:04:00Z"
+  },
+  {
+    "lead_id": "L-003",
+    "name": "Jordan Lee",
+    "email": "not-an-email",
+    "phone": "",
+    "company": "Brightline",
+    "source": "website_form",
+    "consent_to_contact": true,
+    "received_at": "2026-10-29T14:08:00Z"
+  },
+  {
+    "lead_id": "L-004",
+    "name": "Sam Rivera",
+    "email": "sam@example.org",
+    "phone": "+1 555 010 1004",
+    "company": "Rivera Studio",
+    "source": "webchat",
+    "consent_to_contact": false,
+    "received_at": "2026-10-29T14:10:00Z"
+  },
+  {
+    "lead_id": "L-005",
+    "name": "Taylor Chen",
+    "email": "taylor@example.net",
+    "phone": "+1 555 010 1005",
+    "company": "Cedar Works",
+    "source": "website_form",
+    "consent_to_contact": true,
+    "received_at": "2026-10-29T14:12:00Z"
+  },
+  {
+    "lead_id": "L-006",
+    "name": "Morgan Patel",
+    "email": "",
+    "phone": "+44 7700 900123",
+    "company": "Mosaic Retail",
+    "source": "whatsapp",
+    "consent_to_contact": true,
+    "received_at": "2026-10-29T14:14:00Z"
+  },
+  {
+    "lead_id": "L-007",
+    "name": "Taylor C.",
+    "email": "taylor@example.net",
+    "phone": "+1 555 010 7777",
+    "company": "Cedar Works",
+    "source": "webchat",
+    "consent_to_contact": true,
+    "received_at": "2026-10-29T14:15:00Z"
+  },
+  {
+    "lead_id": "L-008",
+    "name": "Casey Jones",
+    "email": "casey@example.com",
+    "phone": "123",
+    "company": "Casey Co",
+    "source": "website_form",
+    "consent_to_contact": true,
+    "received_at": "2026-10-29T14:17:00Z"
+  }
+]
