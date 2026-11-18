@@ -30,7 +30,7 @@ A Python standard-library prototype was run on 2026-11-18 using 10 fictional row
 
 A reproducible local sample, test suite, generated import-ready CSV, exception report and checksums are retained in the buyer-acquisition evidence package. No real purchases were synchronized.
 
-Important: Gumroad's documented export uses UTC purchase dates and includes an explicit **Do not contact** flag. This prototype preserves these protections. Airtable's CSV Import Extension is restricted to paid plans as of 2026-09-14. That manual import path is not an always-on synchronization service. Its merge key, when available, should be purchase ID, not buyer email.
+Important: Gumroad's documented export uses UTC purchase dates and includes an explicit **Do not contact** flag. This prototype preserves these protections. The demo uses Gumroad's `Net Total ($)` field, which is **net proceeds after fees**, not necessarily the buyer's gross transaction amount; the client must select the intended definition before any live work. Airtable's CSV Import Extension is restricted to paid plans as of 2026-09-14. That manual import path is not an always-on synchronization service. Its merge key, when available, should be purchase ID, not buyer email.
 
 ## Public related work
 
